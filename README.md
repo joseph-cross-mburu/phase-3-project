@@ -21,17 +21,16 @@ To run the Task management system locally, follow these steps:
 3. Install dependencies using the pip install command(pip install tabulate
 ).
 
-4. Start the React app with the following command 'npm start'.
 
-5. The tasks information will be displayed in the web page including title, description, priority, and the due date.
+4. The tasks information will be displayed in the web page including title, description, priority, and the due date.
 
 ## Technologies used
 
-Python 3.8
+Python 3.10
 SQLite
 pipenv (for dependency management)
 tabulate (for displaying tables in CLI)
-colorama (provides colored ouputs)
+colorama (provides colored outputs)
 
 ## Functionality
 
@@ -47,7 +46,7 @@ The Task Management System has the following functionalities:
 
 -Delete User: Enables the deletion of a user by specifying the user ID.
 
-2. Category Mangement:
+2. Category Management:
 
 -Create Category: Allows the creation of a new category by providing a name and a description.
 
