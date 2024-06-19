@@ -73,6 +73,10 @@ The Task Management System has the following functionalities:
 
 Incase of any query, need for collaboration or issues with this code, feel free to reach me at <josephmburu1@student.moringaschool.com>
 
+
+here's a brief explanation video https://drive.google.com/file/d/1MAyp3gq1ki4SVmN0tlEIpArRxJgioBa6/view?usp=drive_link
+
+
 ## License
 
 The content of this site is licensed under
